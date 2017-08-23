@@ -1,0 +1,26 @@
+{
+  "name": "getting-started-with-redux",
+  "version": "1.0.0",
+  "description": "getting started with redex code and translation transcript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commitmsg": "validate-commit-msg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RunningCoderLee/Getting-Started-with-Redux.git"
+  },
+  "author": "Kevin Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RunningCoderLee/Getting-Started-with-Redux/issues"
+  },
+  "homepage": "https://github.com/RunningCoderLee/Getting-Started-with-Redux#readme",
+  "dependencies": {
+    "husky": "^0.14.3"
+  },
+  "devDependencies": {
+    "validate-commit-msg": "2.14.0"
+  }
+}
